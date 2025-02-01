@@ -1,4 +1,3 @@
 Name: Jay Justine R. Comendador
-Section: CS1A
 Program: BS Computer Science
 Address: Nagcarlan, Laguna
